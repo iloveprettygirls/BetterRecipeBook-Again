@@ -1,8 +1,12 @@
+I'm not profiting from this. 
+I'm developing it for my own use; anyone who wants to can use it. 
+There might be errors. I'll share it on modrinth.com under the name "BetterRecipeBook-Again". I'll add the link below. Stay well.
+
 # Better Recipe Book
 
 Adds brewing, smithing, and QOL changes to the vanilla recipe book!
 
-https://discord.gg/D7kcXWaZra
+https://discord.gg/D7kcXWaZra  (Owner's Discord address [not the fork owner, but the main author of the code])
 
 ## Features
 
@@ -58,14 +62,3 @@ Oh... and you can also disable the recipe book entirely, if you'd like.
 |---------------------------------------------------------------|---------------------------------------------------------------|
 | [Architectury API](https://modrinth.com/mod/architectury-api) | [Architectury API](https://modrinth.com/mod/architectury-api) |
 | [Fabric API](https://modrinth.com/mod/fabric-api)             |                                                               |
-
-## Compatibility
-
-| Version | Support |
-| ------- | --------- |
-| 1.21  | ✅ Supported |
-| 1.20.6-5  | ❌ Unsupported |
-| 1.20.4  | ⏬ Backports |
-| 1.20.3  | ❌ Unsupported |
-| 1.20.2, 1.20.1-0  | ⏬ Backports |
-| <= 1.19.4	| ❌ Unspported |
